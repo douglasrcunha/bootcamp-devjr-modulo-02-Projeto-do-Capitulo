@@ -32,3 +32,65 @@ body{
     margin-bottom: 15px; 
     font-weight: 600;      
 }
+
+.form-choices{
+    background-image: linear-gradient(180deg, #631E6F, #1F0C22);            
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: space-around;
+    width: 90%;
+    margin: 10px 50px;
+    border-radius: 0.5rem;
+    font-size: 1.5rem;
+ }
+
+.form-txt{
+    color: white;
+    font-size: 2.1rem;
+    font-weight: 400;
+    margin: 10px 0 10px 0;
+ }
+
+ .box{
+    display: flex;
+ }
+
+ .col-1{
+    background-image: linear-gradient(180deg, #3D5EEF, #72CDFF);          
+    color: #E9E9E9;
+    width: 12.5rem;
+    margin: 2.5rem;
+    border-width: 0.625rem;
+    border-style: solid;
+    border-color: #2738DB;
+    border-radius: 0.5rem;
+}
+
+.col-2{
+    background-image: linear-gradient(180deg, #3D5EEF, #72CDFF);
+    color: #E9E9E9;
+    width: 12.5rem;
+    margin: 2.5rem;
+    border-width: 0.625rem;
+    border-style: solid;
+    border-color: #2738DB;
+    border-radius: 0.5rem;
+}
+
+.col-3{
+    background-image: linear-gradient(180deg, #3D5EEF, #72CDFF);
+    color: #E9E9E9;
+    width: 12.5rem;
+    margin: 2.5rem;
+    border-width: 0.625rem;
+    border-style: solid;
+    border-color: #2738DB;
+    border-radius: 0.5rem;
+}
+
+.marca{
+    color: white;
+    margin: 5px;
+    font-size: 0.7rem;
+ }
