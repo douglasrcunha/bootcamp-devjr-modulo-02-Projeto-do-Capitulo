@@ -1,0 +1,34 @@
+body{
+    background-color: #CCCCCC;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ 
+ .container{
+    background-image: linear-gradient(180deg, #1F0C22, #631E6F);
+    margin: auto;
+    margin-top: 0.313rem;
+    width: 1000px;
+    box-shadow: 1px 3px 8px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0.5rem;
+    overflow: hidden;
+    text-align: center;
+}
+
+.header{
+    padding: 0.9rem;
+}
+
+.header-title{
+    color: #FECB23;
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 40px; 
+}
+
+.header-subtitle{
+    color: white;
+    font-size: 1rem;
+    margin-bottom: 15px; 
+    font-weight: 600;      
+}
