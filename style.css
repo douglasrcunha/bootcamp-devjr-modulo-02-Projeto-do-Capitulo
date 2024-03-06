@@ -94,3 +94,31 @@ body{
     margin: 5px;
     font-size: 0.7rem;
  }
+
+ @media screen and (max-width: 999px){
+    html{
+        font-size: 1rem;
+    }
+
+    .form-choices{
+        width: 100%;
+        margin: auto;
+    }
+
+    .box{
+       flex-direction: column;
+       align-items: center;
+   }
+    
+    .col-1, .col-2, .col-3{
+        width: 57%;
+    }
+
+    .container{
+        width: 95%;
+    }
+
+    .header{
+       padding: 0.9rem;
+    }
+}
